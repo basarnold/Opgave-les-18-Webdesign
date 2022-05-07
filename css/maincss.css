@@ -51,7 +51,8 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
 
          }
-
+#container{position:relative;
+}
 
 .row{
   margin-top: 30px
@@ -93,7 +94,10 @@ header{   background-image: url(../img/roosendaal2.jpg);
       margin:5px;
       }
 
-#footer  {  
+#footer  { display:absolute;
+           bottom:0
+           left:0;
+           right:0;
            clear:left;
            background-color:#8FBC8F;
            width:100%;
