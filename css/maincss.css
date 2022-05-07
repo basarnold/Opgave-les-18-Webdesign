@@ -91,7 +91,8 @@ header{   background-image: url(../img/roosendaal2.jpg);
       margin:5px;
       }
 
-footer  {
+footer  { position:absolute;
+          bottom:0;
           clear:left;
 
           background-color:#8FBC8F;
