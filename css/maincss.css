@@ -88,14 +88,10 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
 footer  {
           clear:left;
-          position:absolute;
-          bottom:0px;
-          left:0;
-          right:0;
 
           background-color:#8FBC8F;
           width:100%;
-          min-height:100px;
+          height:100px;
           }
    footer p  {width:100%;
               padding-top:60px;
