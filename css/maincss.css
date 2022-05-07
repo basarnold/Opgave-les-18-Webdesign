@@ -94,7 +94,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
       margin:5px;
       }
 
-#footer  { display:absolute;
+ footer  { display:absolute;
            top:1000px;
            
            left:0;
@@ -105,7 +105,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
            height:100px;
           
           }
-   #footer p  {width:100%;
+   footer p  {width:100%;
               padding-top:50px;
               font-size:12px;
               text-align: center;
