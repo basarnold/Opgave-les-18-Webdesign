@@ -50,7 +50,12 @@ header{   background-image: url(../img/roosendaal2.jpg);
          }
 
 
-.row{min-height:700px;
+.row{
+  margin-top: 30px
+
+    }
+
+#container{min-height:700px;
   margin-top: 30px
 
     }
@@ -151,10 +156,16 @@ header{   background-image: url(../img/roosendaal2.jpg);
          }
 
 
-.row{min-height:700px;
+.row{
   margin-top: 30px
 
     }
+
+#container{min-height:700px;
+  
+
+    }
+
 
 .col-2{
        background-color: #DEB887;
