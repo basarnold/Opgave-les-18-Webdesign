@@ -92,7 +92,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
       margin:5px;
       }
 
- .voettekst  { position:absolute;
+ .voettekst  { 
                left:0;
                right:0;
                bottom:0;
@@ -201,7 +201,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
       margin:5px;
       }
 
-.voettekst  { position:absolute;
+.voettekst  { 
               left:0;
               right:0;
               bottom:0;
@@ -297,7 +297,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
                   margin:5px;
                   }
 
-             .voettekst{position:absolute;
+             .voettekst{
                         left:0;
                         right:0;
                         bottom:0;
