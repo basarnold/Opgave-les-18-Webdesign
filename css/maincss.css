@@ -94,9 +94,9 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
  .voettekst  { 
            clear:left;
-           background-color:DarkSlateBlue;
+           background-color:#483D8B;
            width:100%;
-           height:100px;
+           height:200px;
           
           }
  .voettekst p {width:100%;
@@ -199,9 +199,9 @@ header{   background-image: url(../img/roosendaal2.jpg);
       }
 
 .voettekst  { 
-          background-color:DarkSlateBlue;
+          background-color:#483D8B;
           width:100%;
-          height:100px;
+          height:200px;
           }
 .voettekst p  {width:100%;
               padding-top:50px;
@@ -293,13 +293,13 @@ header{   background-image: url(../img/roosendaal2.jpg);
 
              .voettekst{
                       clear:left;
-                      background-color:DarkSlateBlue;
+                      background-color:#483D8B;
                       width:100%;
-                      height:100px;
+                      height:200px;
                       }
 
               .voettekst p  {width:auto;
-                         padding-top:75px;
+                         pa2ding-top:75px;
                          font-size:12px;
                          text-align: center;
                          color:white;
