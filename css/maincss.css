@@ -203,7 +203,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
       margin:5px;
       }
 
-.voettekst  { 
+ footer  { 
               left:0;
               right:0;
               bottom:0;
@@ -211,7 +211,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
               width:100%;
               height:200px;
           }
-.voettekst p  {width:100%;
+ footer p  {width:100%;
               padding-top:50px;
               font-size:12px;
               text-align: center;
@@ -299,7 +299,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
                   margin:5px;
                   }
 
-             .voettekst{
+             footer {
                         left:0;
                         right:0;
                         bottom:0;
@@ -309,7 +309,7 @@ header{   background-image: url(../img/roosendaal2.jpg);
                         height:200px;
                       }
 
-              .voettekst p  {width:auto;
+             footer  p  {width:auto;
                          padding-top:75px;
                          font-size:12px;
                          text-align: center;
