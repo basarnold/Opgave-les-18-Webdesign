@@ -93,7 +93,9 @@ header{   background-image: url(../img/roosendaal2.jpg);
       }
 
  .voettekst  { 
-     
+           left:0;
+           right:0;
+           bottom:0;
            clear:left;
            background-color:#483D8B;
            width:100%;
